@@ -1,0 +1,7 @@
+function:
+  name: helloworld
+  buildConfig:
+    runtime: nodejs14
+    entryPoint: helloHttp
+  environment: GEN_2
+function_id: helloworld
