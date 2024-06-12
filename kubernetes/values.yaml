@@ -4,7 +4,7 @@ image: library/nginx
 
 # Namespace Configuration
 createNamespace: true
-namespace: <+infra.namespace>
+namespace: anshul-dev
 
 # Service Type allow you to specify what kind of service you want.
 # Possible values for ServiceType are:
